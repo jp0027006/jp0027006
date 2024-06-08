@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jp0027006" alt="jp0027006" /></a> </p>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **React.js**
 
@@ -20,6 +18,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jp0027006&show_icons=true&locale=en&layout=compact" alt="jp0027006" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jp0027006&show_icons=true&locale=en" alt="jp0027006" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jp0027006&" alt="jp0027006" /></p>
