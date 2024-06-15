@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ldgy.onrender.com/](https://jp0027006.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://jp0027006.github.io/Portfolio/](https://jp0027006.github.io/Portfolio/)
 
 - 📫 How to reach me **jp0027006@gmail.com**
 
