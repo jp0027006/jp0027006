@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Jay Patel</h1>
-<h3>A passionate frontend developer who enjoys the tranquility of tea over coffee.☕</h3>
+<h3>A passionate developer who enjoys the tranquility of tea over coffee.☕</h3>
 
 - 🔭 I’m currently working on [Meetup](https://github.com/jp0027006/meetup.git)
 
@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **jp0027006@gmail.com**
 
-- ⚡ Fun fact **Unlike most developers who thrive on coffee, I prefer the tranquility of tea.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
