@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Jay Patel</h1>
 <h3>A passionate developer who enjoys the tranquility of tea over coffee.☕</h3>
 
-- 🔭 I’m currently working on [Meetup](https://github.com/jp0027006/meetup.git)
+- 🔭 I’m currently working on [InterviewAI](https://github.com/jp0027006/interviewai.git)
 
 - 🌱 I’m currently learning **React.js**
 
