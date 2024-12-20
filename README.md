@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio/](https://portfolio-jp0027006s-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-jp0027006s-projects.vercel.app/)
 
 - 📫 How to reach me **jp0027006@gmail.com**
 
